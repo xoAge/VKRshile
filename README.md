@@ -2,7 +2,6 @@
 
 **Специализированный редактор IDEF3-диаграмм для моделирования бизнес-процессов**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![.NET 8](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
 [![WPF](https://img.shields.io/badge/GUI-WPF-512BD4?logo=windows)](https://docs.microsoft.com/ru-ru/dotnet/desktop/wpf/)
 [![MVVM](https://img.shields.io/badge/Architecture-MVVM-512BD4)](https://learn.microsoft.com/ru-ru/dotnet/communitytoolkit/mvvm/)
